@@ -1,0 +1,16 @@
+name,city,product_name,category,quantity,price,revenue,order_date
+"Rahul Sharma",Mumbai,Smartwatch,Electronics,1,8999.0,8999.0,2024-01-20
+"Priya Patel",Delhi,"Wireless Earbuds",Electronics,2,2999.0,5998.0,2024-02-25
+"Arjun Singh",Bangalore,"Running Shoes",Footwear,1,1999.0,1999.0,2024-03-15
+"Sneha Reddy",Hyderabad,"Bluetooth Speaker",Electronics,1,3499.0,3499.0,2024-03-28
+"Kiran Kumar",Chennai,Backpack,Accessories,2,1499.0,2998.0,2024-04-10
+"Neha Joshi",Pune,"Yoga Mat",Fitness,3,799.0,2397.0,2024-04-22
+"Rohit Verma",Kolkata,Sunglasses,Accessories,1,1299.0,1299.0,2024-05-05
+"Ananya Das",Mumbai,"Water Bottle",Fitness,4,499.0,1996.0,2024-05-25
+"Rahul Sharma",Mumbai,"Wireless Earbuds",Electronics,1,2999.0,2999.0,2024-06-01
+"Priya Patel",Delhi,Smartwatch,Electronics,1,8999.0,8999.0,2024-06-15
+"Arjun Singh",Bangalore,"Bluetooth Speaker",Electronics,2,3499.0,6998.0,2024-07-02
+"Sneha Reddy",Hyderabad,"Running Shoes",Footwear,1,1999.0,1999.0,2024-07-18
+"Kiran Kumar",Chennai,"Yoga Mat",Fitness,2,799.0,1598.0,2024-08-05
+"Neha Joshi",Pune,Backpack,Accessories,1,1499.0,1499.0,2024-08-20
+"Rohit Verma",Kolkata,"Wireless Earbuds",Electronics,3,2999.0,8997.0,2024-09-10
